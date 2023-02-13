@@ -1,0 +1,140 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.login {
+	width: 400px;
+	height: 450px;
+	margin-Right: 43%;
+	margin-left: 34%;
+	margin-top: 10%;
+	box-shadow: 0 0 0 1px black;
+	border-radius: 15px;
+}
+
+.login h2 {
+	height: 80px;
+	background-image: url(panda.jpg);
+	background-repeat: no-repeat;
+	background-size: 150px;
+	text-align: center;
+	font-family: arial, calibri, sans serif;
+	font-size: 30px;
+	color: black;
+	margin: 10px 30px;
+	padding-top: 60px;
+	letter-spacing: 5px;
+}
+
+.box-login {
+	display: flex;
+	justify-content: space-between;
+	margin: 25px 50px;
+	border-bottom: 2px solid black;
+}
+
+.box-login input {
+	font-size: 15px;
+	background: none;
+	border: none;
+	outline: none;
+	color: black;
+	padding: 5px 0;
+}
+
+.btn-signin {
+	width: 50%;
+	margin: 0 100px;
+	background: #f8f8ff;
+	padding: 15px;
+	border: 1px solid black;
+	font-size: 15px;
+	letter-spacing: 3px;
+	color: black;
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+.dont {
+	text-align: center;
+	font-size: 17px;
+	font-family: sans serif;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.forgot {
+	text-align: center;
+	font-size: 15px;
+	font-family: sans serif;
+}
+
+.create {
+	width: 400px;
+	height: 500px;
+	margin-Right: 43%;
+	margin-left: 34%;
+	margin-top: 10%;
+	box-shadow: 0 0 0 1px black;
+	border-radius: 15px;
+}
+
+.create h2 {
+	height: 80px;
+	background-image: url(panda.jpg);
+	background-repeat: no-repeat;
+	background-size: 150px;
+	text-align: center;
+	font-family: arial, calibri, sans serif;
+	font-size: 25px;
+	color: black;
+	margin-left: 13px;
+	padding-top: 60px;
+	letter-spacing: 1px;
+}
+
+.box-login {
+	display: flex;
+	justify-content: space-between;
+	margin: 25px 50px;
+	border-bottom: 2px solid black;
+}
+
+.box-login input {
+	font-size: 15px;
+	background: none;
+	border: none;
+	outline: none;
+	color: black;
+	padding: 5px 0;
+}
+
+.btn-signup {
+	width: 50%;
+	margin: 0 100px;
+	background: #f8f8ff;
+	padding: 15px;
+	border: 1px solid black;
+	font-size: 15px;
+	letter-spacing: 3px;
+	color: black;
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+.already {
+	text-align: center;
+	font-size: 17px;
+	font-family: sans serif;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+	
