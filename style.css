@@ -137,4 +137,317 @@ a {
 	color: black;
 }
 
+@media only screen
+	and (min-device-width: 350px)
+	and (max-device-width: 449px) {
+	
+	.login {
+		width: 700px;
+		height: 650px;
+		margin-Right: 43%;
+		margin-left: 15%;
+		margin-top: 50%;
+	}
+	.login h2 {
+		height: 80px;
+		background-image: url(panda.jpg);
+		background-repeat: no-repeat;
+		background-size: 200px;
+		font-size: 60px;
+		margin: 10px 60px;
+		padding-top: 60px;
+		letter-spacing: 3px;
+	}
+	
+	.box-login {
+		display: flex;
+		justify-content: space-between;
+		margin: 25px 80px;
+		padding: 0 20px;
+		border-bottom: 3px solid black;
+	}
+	
+	
+	.btn-signin {
+		width: 40%;
+		margin: 0 200px;
+		background: #f8f8ff;
+		padding: 20px;
+		font-size: 40px;
+		letter-spacing: 3px;
+	}
+	
+	.dont {
+		font-size: 35px;
+		margin-top: 2%;
+	}
+
+	.forgot {
+		font-size: 35px;
+	}
+
+	.create {
+		width: 700px;
+		height: 690px;
+		margin-Right: 43%;
+		margin-left: 15%;
+		margin-top: 50%;
+	}
+	
+	.create h2 {
+		height: 80px;
+		background-image: url(panda.jpg);
+		background-repeat: no-repeat;
+		background-size: 200px;
+		font-size: 35px;
+		margin-left: 50px;
+		padding-top: 60px;
+		letter-spacing: 5px;
+	}
+	
+	.box-login {
+		display: flex;
+		justify-content: space-between;
+		margin: 25px 80px;
+		border-bottom: 3px solid black;
+	}
+	
+	.box-login input {
+		font-size: 35px;
+		padding: 15px 0;
+	}
+	
+	.btn-signup {
+		width: 40%;
+		margin: 0 200px;
+		background: #f8f8ff;
+		padding: 20px;
+		font-size: 30px;
+		letter-spacing: 3px;
+	}
+	
+	.already {
+		font-size: 35px;
+	}
+
+}
+
+@media only screen
+	and (min-device-width: 450px)
+	and (max-device-width: 599px) {
+		
+	.login {
+		width: 600px;
+		height: 550px;
+		margin-Right: 43%;
+		margin-left: 21%;
+		margin-top: 35%;
+	}
+	.login h2 {
+		height: 80px;
+		background-image: url(panda.jpg);
+		background-repeat: no-repeat;
+		background-size: 180px;
+		font-size: 40px;
+		margin: 10px 60px;
+		padding-top: 60px;
+		letter-spacing: 5px;
+	}
+	
+	.box-login {
+		display: flex;
+		justify-content: space-between;
+		margin: 25px 80px;
+		border-bottom: 3px solid black;
+	}
+	
+	.box-login input {
+		font-size: 20px;
+		padding: 10px 0;
+	}
+	
+	.btn-signin {
+		width: 50%;
+		margin: 0 150px;
+		background: #f8f8ff;
+		padding: 20px;
+		font-size: 20px;
+		letter-spacing: 3px;
+	}
+	
+	.dont {
+		font-size: 24px;
+	}
+
+	.forgot {
+		font-size: 23px;
+	}
+
+	.create {
+		width: 600px;
+		height: 590px;
+		margin-Right: 43%;
+		margin-left: 21%;
+		margin-top: 35%;
+	}
+	
+	.create h2 {
+		height: 80px;
+		background-image: url(panda.jpg);
+		background-repeat: no-repeat;
+		background-size: 180px;
+		font-size: 40px;
+		margin-left: 10px;
+		padding-top: 60px;
+		letter-spacing: 3px;
+	}
+	
+	.box-login {
+		display: flex;
+		justify-content: space-between;
+		margin: 25px 80px;
+		border-bottom: 3px solid black;
+	}
+	
+	.box-login input {
+		font-size: 20px;
+		padding: 10px 0;
+	}
+	
+	.btn-signup {
+		width: 50%;
+		margin: 0 150px;
+		background: #f8f8ff;
+		padding: 20px;
+		font-size: 20px;
+		letter-spacing: 3px;
+	}
+	
+	.already {
+		font-size: 24px;
+	}
+
+}
+	
+@media only screen
+	and (min-device-width: 600px)
+	and (max-device-width: 754px) {
+		
+	.login {
+		width: 570px;
+		height: 540px;
+		margin-Right: 43%;
+		margin-left: 21%;
+		margin-top: 24%;
+	}
+	.login h2 {
+		height: 80px;
+		background-image: url(panda.jpg);
+		background-repeat: no-repeat;
+		background-size: 180px;
+		font-size: 40px;
+		margin: 10px 60px;
+		padding-top: 60px;
+		letter-spacing: 5px;
+	}
+	
+	.box-login {
+		display: flex;
+		justify-content: space-between;
+		margin: 25px 80px;
+		border-bottom: 3px solid black;
+	}
+	
+	.box-login input {
+		font-size: 20px;
+		padding: 20px 0;
+	}
+	
+	.btn-signin {
+		width: 50%;
+		margin: 0 150px;
+		background: #f8f8ff;
+		padding: 20px;
+		font-size: 20px;
+		letter-spacing: 3px;
+	}
+	
+	.dont {
+		font-size: 24px;
+	}
+
+	.forgot {
+		font-size: 20px;
+	}
+
+	.create {
+		width: 570px;
+		height: 580px;
+		margin-Right: 43%;
+		margin-left: 21%;
+		margin-top: 22%;
+	}
+	
+	.create h2 {
+		height: 80px;
+		background-image: url(panda.jpg);
+		background-repeat: no-repeat;
+		background-size: 180px;
+		font-size: 35px;
+		margin-left: 10px;
+		padding-top: 60px;
+		letter-spacing: 3px;
+	}
+	
+	.box-login {
+		display: flex;
+		justify-content: space-between;
+		margin: 25px 80px;
+		border-bottom: 3px solid black;
+	}
+	
+	.box-login input {
+		font-size: 20px;
+		padding: 10px 0;
+	}
+	
+	.btn-signup {
+		width: 50%;
+		margin: 0 150px;
+		background: #f8f8ff;
+		padding: 20px;
+		font-size: 20px;
+		letter-spacing: 3px;
+	}
+	
+	.already {
+		font-size: 24px;
+	}
+
+}
+	
+@media only screen
+	and (min-device-width: 755px)
+	and (max-device-width: 899px) {
+	
+	.login {
+		margin-top: 20%;
+	}
+	
+	.create {
+		margin-top: 20%;
+	}
+}
+
+@media only screen
+	and (min-device-width: 900px)
+	and (max-device-width: 1100px) {
+	.login {
+		margin-top: 12%;
+	}
+	
+	.create {
+		margin-top: 12%;
+	}
+}
 	
